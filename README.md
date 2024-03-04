@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ryuiiji
-- 👀 I’m interested in programming ,basically c ,cpp ,python ,and some malware development(in any language).
-- 🌱 I’m currently learning unreal engine, and python(unreal is basically a passion project).
-- 💞️ I’m looking to collaborate on red teaming and hacking(generally looking for experience).
-- 📫 How to reach me https://github.com/ryuiiji.
+- Hi, I’m @ryuiiji
+- I’m interested in programming.
+- I’m currently learning programming.
+- I’m looking for programming.
+- How to reach me? Through programming.
 
 <!---
 ryuiiji/ryuiiji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
